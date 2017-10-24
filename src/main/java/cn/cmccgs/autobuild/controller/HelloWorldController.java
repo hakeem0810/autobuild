@@ -11,6 +11,7 @@ public class HelloWorldController {
     @RequestMapping("/")
     String home(){
     	int a = 5;
+    	a = a-1;
         return "hello world";
     }
 }
