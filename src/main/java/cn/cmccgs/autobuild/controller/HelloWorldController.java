@@ -1,4 +1,4 @@
-package cn.cmccgs.xyw.bugtracker.controller;
+package cn.cmccgs.autobuild.controller;
 
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.web.bind.annotation.RequestMapping;
