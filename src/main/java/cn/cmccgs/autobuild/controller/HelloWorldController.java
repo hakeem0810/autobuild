@@ -10,6 +10,7 @@ public class HelloWorldController {
 
     @RequestMapping("/")
     String home(){
+    	int a = 5;
         return "hello world";
     }
 }

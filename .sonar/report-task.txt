@@ -1,0 +1,5 @@
+projectKey=my:autobuild
+serverUrl=http://localhost:9000
+dashboardUrl=http://localhost:9000/dashboard/index/my:autobuild
+ceTaskId=AV9NYC3tuLT7khQI-Btq
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AV9NYC3tuLT7khQI-Btq
